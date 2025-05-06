@@ -1,0 +1,29 @@
+# 🛡️ Cybersecurity Notes
+
+Welcome to my personal cybersecurity notes repository! I'm Alfred Cassidy, currently completing the Cybersecurity Certificate at NCSU. These notes are part of my ongoing journey toward becoming a SOC Analyst.
+
+## 🔍 Topics Covered
+- Network fundamentals and packet analysis
+- SOC tools like Splunk and Wireshark
+- Blue Team techniques and incident response
+- Threat intelligence and MITRE ATT&CK
+- Personal study notes from labs and courses
+
+## 🧠 Why This Repo?
+I use this space to organize concepts I’m learning, document labs and tool usage, and create quick references for myself and others.
+
+---
+
+### 📚 Notebooks by Topic
+
+| Category       | Topics                                               |
+|----------------|------------------------------------------------------|
+| 🧪 Network      | [Wireshark Tips](network/wireshark-tips.md), [TCP/IP Basics](network/tcp-ip-basics.md) |
+| 🔧 SOC Tools    | [Splunk Queries](soc-tools/splunk-queries.md), [SIEM Comparison](soc-tools/siem-comparison.md) |
+| ☣️ Threats       | [MITRE ATT&CK Notes](threats/mitre-attack-notes.md), [Malware Analysis Intro](threats/malware-analysis-intro.md) |
+| 🛡️ Blue Team    | [Log Analysis Basics](blue-team/log-analysis-basics.md), [Incident Response Checklist](blue-team/incident-response-checklist.md) |
+
+---
+
+### ✅ License
+MIT License – use and share freely.
